@@ -1,0 +1,5 @@
+*.json
+*.css
+*.gzip
+*.map
+*.min.js
